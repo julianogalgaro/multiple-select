@@ -1185,6 +1185,14 @@ styler: function(value) {
 }
 ```
 
+#### notFoundText
+
+Type: string	
+
+The text displays when the search no matches found.
+
+By default this option is set to ```No matches found```.
+
 ### Events
 
 #### onOpen
